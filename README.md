@@ -2,8 +2,8 @@
 
 <div>
 <a href="https://github.com/mariahcpgo">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariahcpgo&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=mariahcpgo&show_icons=true&theme=dracula"/>
+<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariahcpgo&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=mariahcpgo&show_icons=true&theme=dracula"/>
 </div>
 
 # Farramentas e Tecnologias
